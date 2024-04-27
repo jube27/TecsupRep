@@ -1,0 +1,27 @@
+/* selector global */
+* {
+   margin: 0; 
+   padding: 0;
+}
+
+
+/* selectores basicos */
+
+body {
+    border: solid;
+    height: 100vh;
+}
+
+form{
+    border: solid;
+    
+}
+
+
+
+/* encabezado */
+
+
+
+
+/* seccion principal */
